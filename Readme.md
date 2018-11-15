@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/Workdays/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Workdays/MainWindow.xaml))
+<!-- default file list end -->
 # How to exclude holidays from the DateTime scale
 
 
